@@ -1,0 +1,50 @@
+[ 
+    { 
+        "id": "el1",
+        "name": "iPhone 12 Mini",
+        "img": "img/catalog/iphone-12-mini.png", 
+        "price": 64799
+    },
+    {
+        "id": "el2",
+        "name": "Iphone 12 Pro Max",
+        "img": "img/catalog/iphone-12-pro-max.png",
+        "price": 79899
+    },
+    {
+        "id": "el3",
+        "name": "Iphone 12",
+        "img": "img/catalog/iphone-12.png",
+        "price": 62499
+    },
+    {
+        "id": "el4",
+        "name": "Iphone 11",
+        "img": "img/catalog/iphone-11.png",
+        "price": 39399
+    },
+    {
+        "id": "el5",
+        "name": "Iphone 11 Pro Max",
+        "img": "img/catalog/iphone-11-pro-max.png",
+        "price": 63199
+    },
+    {
+        "id": "el6",
+        "name": "Iphone 11 Pro",
+        "img": "img/catalog/iphone-11-pro.png",
+        "price": 59699
+    },
+    {
+        "id": "el7",
+        "name": "Iphone 11 (black)",
+        "img": "img/catalog/iphone-11-black.png",
+        "price": 39399
+    },
+    {
+        "id": "el8",
+        "name": "Iphone 12 Mini",
+        "img": "img/catalog/iphone-12-mini-red.png",
+        "price": 64799
+    }
+]
